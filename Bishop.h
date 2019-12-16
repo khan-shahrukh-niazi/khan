@@ -14,5 +14,5 @@ class Bishop:public ChessPiece{
         virtual ~Bishop();
 
 };
-
+//manzoor
 #endif // BISHOP_H
