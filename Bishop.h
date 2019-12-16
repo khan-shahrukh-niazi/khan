@@ -15,5 +15,8 @@ class Bishop:public ChessPiece{
 
 };
 //manzoor
+<<<<<<< HEAD
 
+=======
+>>>>>>> f746f118d399aac832ee8e829b8440ea31773a3f
 #endif // BISHOP_H
